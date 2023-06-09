@@ -1,0 +1,39 @@
+body {
+    background-color: #eee;
+}
+
+div {
+    background-color: white;
+    padding-top: 4px;
+    padding-left: 0%;
+    padding-right: 0%;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    border-color: lightgray;
+    border-width: 2px;
+}
+
+hr {
+    /* margin: 0; */
+    color: red;
+}
+
+p {
+    margin: 8px;
+}
+
+.aceptar {
+    margin: 5px;
+    background-color: blue;
+    border: 0px;
+    padding: 8px;
+    color: #eee;
+}
+
+.cancelar {
+    background-color: grey;
+    border: 0px;
+    padding: 8px;
+    color: #eee;
+}

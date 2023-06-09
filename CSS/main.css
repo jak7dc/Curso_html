@@ -1,0 +1,27 @@
+body {
+    background-color: #eee;
+    color: red;
+}
+
+#parrafo {
+    background-color: chocolate;
+    color: aliceblue;
+    margin: 8px;
+    padding: 8px;
+    border-style: solid;
+    /* border-style: dotted dashed solid double; */
+    /* border-width: 8px; */
+    border-color: black;
+    border-width: 8px;
+    border-left: 6px solid #aaf;
+    border-radius: 8px;
+    height: 100px;
+    width: 110px;
+
+}
+
+.sMargen{
+    margin: 8px
+}
+
+
